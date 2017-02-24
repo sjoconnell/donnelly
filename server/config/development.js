@@ -1,5 +1,5 @@
 module.exports = {
   db: {
-    url: 'mongodb://localhost/donnelly-dev;'
+    url: 'mongodb://localhost/donnelly-dev'
   }
 };
